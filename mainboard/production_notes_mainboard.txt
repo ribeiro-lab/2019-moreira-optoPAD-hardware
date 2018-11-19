@@ -1,0 +1,13 @@
+Board CAD is an EAGLE brd file.
+Please, use following layers for job:
+- Top Copper -> Top, Pads, Vias
+- Bottom Copper -> Bottom, Pads, Vias
+- Top Soldermask -> tStop
+- Bottom Soldermask -> bStop
+- Top Silkscreen -> Dimension, tPlace, tNames
+- Bottom Silkscreen -> not required
+
+Dimension = 8.63" * 5.91" = 219.08mm * 150mm
+
+Contact jose.moreira@neuro.fchampalimaud.org for any question.
+Thank you.
